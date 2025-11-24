@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Hello",
+        "level": 1,
+        "joints": {
+            "index_tip": {
+                "position": {
+                    "x": 0.1,
+                    "y": 0.2,
+                    "z": -0.5
+                }
+            },
+            "wrist": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": -0.5
+                }
+            }
+        }
+    },
+    {
+        "id": "2",
+        "name": "Water",
+        "level": 3,
+        "joints": {
+            "index_tip": {
+                "position": {
+                    "x": 0.05,
+                    "y": 0.3,
+                    "z": -0.4
+                }
+            },
+            "wrist": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": -0.5
+                }
+            }
+        }
+    }
+]
